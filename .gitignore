@@ -1,0 +1,5 @@
+# ignoruj wszystkie wynikowe kompilacji
+
+*.o
+
+
