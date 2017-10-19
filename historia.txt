@@ -1,0 +1,188 @@
+    1  sudo os-prober
+    2  sudo update-grub2
+    3  exit
+    4  cd Pulpit
+    5  mk dir Repezytorium
+    6  mkdir repezytorium
+    7  cd repezytorium
+    8  touch test.txt
+    9  nano tekst.txt
+   10  git log
+   11  sudo apt instal git
+   12  sudo apt-get instal git
+   13  sudo apt instal git
+   14  sudo apt install git
+   15  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   16  git status
+   17  git
+   18  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   19  git log
+   20  git init
+   21  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   22  git push -u origin master
+   23  git init
+   24  git add .
+   25  nano.txt
+   26  nano tekst.txt
+   27  git add .
+   28  git commit -m "dodałem linijkę"
+   29  git config --global user.email "marcin.miszkurka@interia.pl"
+   30  git config --global user.name "marcinmiszkurka"
+   31  git add .
+   32  git status
+   33  git log
+   34  git commit
+   35  nano tekst.txt
+   36  git add
+   37  git add .
+   38  git commit -m "dodałem 2 linijkę"
+   39  git status
+   40  git log
+   41  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   42  git push -u origin master
+   43  git remote set-url origin git@github.com:marcinmiszkurka/repezytorium.git
+   44  git push -u origin master
+   45  git remote -v
+   46  cd ~/.ssh/
+   47  ls
+   48  cat known_hosts 
+   49  cd -
+   50  git push -u origin master
+   51  git status
+   52  git push
+   53  git push --set-upstream origin master
+   54  cat ~/.gitconfig 
+   55  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   56  git remote -v
+   57  git remote --help
+   58  git remote remove origin
+   59  git remote -v
+   60  git remote add origin git@github.com:marcinmiszkurka/repezytorium.git
+   61  git push -u origin master
+   62  git remote -v
+   63  git remote remove origin
+   64  git remote add origin https://github.com/marcinmiszkurka/repezytorium.git
+   65  git push -u origin master
+   66  mkdir next
+   67  cd next
+   68  git --version
+   69  git clone https://github.com': marcinmiszkurka
+   70  git
+   71  git version
+   72  git clone https://github.com/marcinmiszkurka/repezytorium.git
+   73  cd repezytorium
+   74  cd next
+   75  cd .
+   76  cd..
+   77  cd.
+   78  cd..
+   79  CD
+   80  cd..
+   81  cd ..
+   82  CD Pulpit
+   83  cd ..
+   84  CD Pulpit
+   85  cd Pulpit
+   86  cd Desktop
+   87  cd repezytorium
+   88  cd ..
+   89  cd Pulpit
+   90  cd repezytorium
+   91  cd next
+   92  git clone https://github.com/marcinmiszkurka/repezytorium.git
+   93  pwd
+   94  cd ..
+   95  mkdir pierwszy_program
+   96  cd pierwszy_program
+   97  touch program.c
+   98  ls
+   99  git init
+  100  git commit -m "pusty plik program.c
+  101  dwp
+  102  git commit -m "pusty plik program.c"
+  103  cat program.c
+  104  cat program.cc
+  105  cd Pulpit
+  106  cd pierwszy_program
+  107  cat program.c
+  108  git status
+  109  git commit -m "pusty plik program.c"
+  110  git status
+  111  cat ~/.gitconfig
+  112  git remote add origin https://github.com/marcinmiszkurka/pierwszy_program_w_c.git
+  113  git push -u origin master
+  114  git add .
+  115  rogram.c
+  116  git status
+  117  git remote add origin https://github.com/marcinmiszkurka/pierwszy_program_w_c.git
+  118  git push -u origin master
+  119  rogram.c
+  120  git push -u origin master
+  121  git status
+  122  git commit -m "pusty plik program.c"
+  123  git remote add origin https://github.com/marcinmiszkurka/pierwszy_program_w_c.git
+  124  git push -u origin master
+  125  nano tekst.txt
+  126  nano program.c
+  127  cat program.c
+  128  gcc --version
+  129  gcc program.c -0 program.o
+  130  gcc program.c -o program.o
+  131  nano program.c
+  132  gcc program.c -o program.o
+  133  nano program.c
+  134  gcc program.c -o program.o
+  135  nano program.c
+  136  gcc program.c -o program.o
+  137  ./program.o
+  138  nano program.c
+  139  git status
+  140  touch .gitignore
+  141  nano .gitignore
+  142  git status
+  143  nano .gitignore
+  144  fg .gitignore
+  145  fg nano .gitignore
+  146  git status
+  147  git add .
+  148  git status
+  149  git commit -m "program zakonczony"
+  150  git push
+  151  git status
+  152  git reset
+  153  git status
+  154  git log
+  155  git log --help
+  156  git log --full-diff
+  157  git log 1 --full-diff
+  158  git log 1 
+  159  git log
+  160  git log 1
+  161  git log -1
+  162  git log -1 --full-diff
+  163  git diff
+  164  git log diff
+  165  git log --full-diff
+  166  git log --help
+  167  git log --full
+  168  git-log --full
+  169  git diff last version:HEAD
+  170  git diff 92046da7d6e1ebda858b490aa96a3eec31b7ebf0
+  171  git diff HEAD^ HEAD
+  172  git push
+  173  ls
+  174  git status
+  175  ls -la
+  176  cat .gitignore 
+  177  rm *.swp
+  178  rm -rd *.swp
+  179  ls -la
+  180  rm -rd ..gitignore.swp 
+  181  rm -rd .tekst.txt.swp 
+  182  ls -la
+  183  git add .
+  184  git commit -m "usun niepotrzebne pliki"
+  185  git push
+  186  git history
+  187  history
+  188  history > historia.txt
